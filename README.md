@@ -72,6 +72,7 @@ Hence, Proved
 $$
  
 b.  KCL:
+
 $$
 \begin{aligned}
 At\enspace node\enspace A:\\
